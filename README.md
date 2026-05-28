@@ -333,4 +333,5 @@ Key sections:
 
 ---
 
+
 *Built on Next.js 16 · Supabase · Resend · Tailwind CSS*
